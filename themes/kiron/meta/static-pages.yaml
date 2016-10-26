@@ -15,6 +15,7 @@ static-pages:
         about-new-kirons-value-add: {  }
         about-kiron-international: {  }
         about-team: {  }
+        about-our-partners: {  }
     for-students:
         for-students-how-does-it-work: {  }
         for-students-what-are-my-study-options:
@@ -51,6 +52,9 @@ static-pages:
             jobs-hri1: {  }
             for-individuals-jobs-devops-cloud-architecture-berlin-2016-fulltime: {  }
             for-individuals-jobs--backend-php-developer-berlin-2016-fulltime: {  }
+            for-individuals-jobs-student-services-coordinator-jordan-amman-fulltime-parttime: {  }
+            for-individuals-jobs-curriculum-academic-coordinator-jordan-fulltime: {  }
+            for-individuals-jobs-project-manager-jordan-fulltime: {  }
         support-individuals: {  }
         for-individuals-i-want-to-donate: {  }
         support-contributors: {  }
