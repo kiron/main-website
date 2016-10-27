@@ -84,7 +84,7 @@ return [
     |
     */
 
-    'key' => env('KEY', '1yjykn0WLJmdIbelASxDXe5B7kjmGu2k'),
+    'key' => env('KEY', 'SNpSCKlLCIkqUVlNWLA5skefGpuvyZHI'),
 
     'cipher' => MCRYPT_RIJNDAEL_128,
 
