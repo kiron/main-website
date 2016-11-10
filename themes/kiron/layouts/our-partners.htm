@@ -6,6 +6,7 @@ description = "All the partner logos"
 
 [SubscribeForm]
 ==
+{variable name="supporterText" label="supporterText" tab="Header" type="text"}{/variable}
 {variable name="premiumText" label="premiumText" tab="Header" type="text"}{/variable}
 {variable name="sponsoringText" label="sponsoringText" tab="Header" type="text"}{/variable}
 {variable name="serviceText" label="serviceText" tab="Header" type="text"}{/variable}
@@ -25,6 +26,22 @@ description = "All the partner logos"
 
       {% page %}
 
+      <h2>{{supporterText}}</h2>
+
+      <div class="row">
+        {repeater name="supporterlogos" prompt="Add another supporter logo"}
+            <div style="margin-top:60px;padding:0px 20px;max-width:300px;position:relative;top:50%;transform:translateY(-50%);text-align:center;" class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
+                <img src="
+                {mediafinder name="supporterlogos" label="supporterLogo"}{/mediafinder}
+                "/>
+                {%if loop.index%4==0 %}
+                    </div>
+                    <div class="row">
+                {% endif %}
+            </div>
+        {/repeater}
+       </div>
+       
       <h2>{{premiumText}}</h2>
 
       <div class="row">
