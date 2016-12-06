@@ -1,2 +1,3 @@
 3,placeholders,path_or_url,/vr-survey?r={id},https://oregon.qualtrics.com/jfe/form/SV_6D4QwcRQyMSc6Rn?r={id},,,302,[],,
 4,placeholders,path_or_url,/vr/{id},https://oregon.qualtrics.com/jfe/form/SV_6D4QwcRQyMSc6Rn?r={id},,,302,[],,
+5,placeholders,path_or_url,/coursera,https://www.coursera.org/groups/kiron-coursera-for-refugees/invitation,,,302,[],,
