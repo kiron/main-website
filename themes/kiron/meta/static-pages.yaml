@@ -47,7 +47,6 @@ static-pages:
             for-individuals-the-kiron-study-tracks-social-sciences: {  }
         for-individuals-how-do-we-support-our-students-their-studies: {  }
         jobs:
-            for-individuals-jobs-grant-writer-berlin-fulltime-2016-2017: {  }
             for-individuals-jobs-frontend-javascript-developer-berlin-fulltime: {  }
             for-individuals-jobs-backend-php-developer-berlin-fulltime: {  }
             for-individuals-jobs-hr-administration-officer-fulltime-berlin-2017: {  }
@@ -55,15 +54,12 @@ static-pages:
             for-individuals-jobs-devops-berlin-parttime-2017: {  }
             for-individuals-jobs-internship-recruiting-berlin-2017: {  }
             for-individuals-jobs-internship-business-development-berlin-december-2016: {  }
-            for-individuals-jobs-internship-corporate-relations-berlin-fulltime-2017: {  }
             jobs-hri1: {  }
             for-individuals-jobs-internship-academics-department-munich-2017: {  }
-            for-individuals-jobs-minijob-quality-management-munich-2017: {  }
-            for-individuals-jobs-minijob-project-management-research-2017-berlin: {  }
-            for-individuals-jobs-minijob-research-2017-berlin: {  }
-            for-individuals-jobs-minijob-project-management-2017-berlin: {  }
-            for-individuals-jobs-minijob-direct-academics-2017-berlin: {  }
-            for-individuals-jobs-minijob-engineering-curriculum-department-2017-berlin: {  }
+            for-individuals-jobs-internship-corporate-relations-berlin-fulltime-2017: {  }
+            for-individuals-jobs-internship-project-management-berlin-2017: {  }
+            for-individuals-jobs-internship-legal-research-berlin-2017: {  }
+            for-individuals-jobs-internship-product-management-berlin-2017: {  }
         for-individuals-become-kiron-buddy: {  }
         support-individuals: {  }
         for-individuals-i-want-to-donate: {  }
