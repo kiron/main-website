@@ -17,6 +17,7 @@ static-pages:
         about-team: {  }
         about-our-partners: {  }
         about-our-projects: {  }
+        transparency: {  }
     for-students:
         for-students-how-does-it-work: {  }
         for-students-what-are-my-study-options:
